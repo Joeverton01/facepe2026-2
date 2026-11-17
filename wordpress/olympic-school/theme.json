@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "forest", "name": "Verde escuro", "color": "#084b3b" },
+        { "slug": "lime", "name": "Verde lima", "color": "#adff2b" },
+        { "slug": "cream", "name": "Creme", "color": "#fffef5" }
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        { "slug": "display", "name": "Outfit", "fontFamily": "Outfit, sans-serif" },
+        { "slug": "body", "name": "DM Sans", "fontFamily": "DM Sans, sans-serif" }
+      ]
+    }
+  },
+  "styles": {
+    "color": { "background": "#084b3b", "text": "#fffef5" },
+    "typography": { "fontFamily": "var(--wp--preset--font-family--body)" }
+  }
+}

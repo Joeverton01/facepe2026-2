@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 620" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="lime" x1="60" y1="620" x2="440" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#aaff2b"/><stop offset=".5" stop-color="#b7ff43"/><stop offset="1" stop-color="#71c93b"/></linearGradient>
+    <linearGradient id="dark" x1="220" y1="620" x2="500" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#044d36"/><stop offset="1" stop-color="#032e2c"/></linearGradient>
+  </defs>
+  <path d="M395-35C412 92 369 151 270 215S182 359 236 432 188 544 66 652" stroke="url(#lime)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M518 20C447 126 327 135 312 236S356 384 293 461 202 558 186 658" stroke="url(#dark)" stroke-width="20" stroke-linecap="round"/>
+  <g stroke="#9ded45" stroke-width="3" opacity=".85">
+    <path d="M397 20 479 60"/><path d="M401 80 443 116"/><path d="M365 157 359 162"/>
+    <path d="M298 200 332 201"/><path d="M250 246 312 247"/><path d="M221 297 312 298"/>
+    <path d="M209 350 327 352"/><path d="M224 402 320 409"/><path d="M238 452 295 462"/>
+    <path d="M225 502 260 524"/><path d="M167 568 207 591"/>
+  </g>
+  <g fill="#aaff2b"><circle cx="298" cy="200" r="5"/><circle cx="250" cy="246" r="5"/><circle cx="221" cy="297" r="5"/><circle cx="209" cy="350" r="5"/><circle cx="224" cy="402" r="5"/></g>
+</svg>
